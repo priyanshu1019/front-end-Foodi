@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import logo from "../../public/images/logo.png";
+import logo from "../assets/logo.png";
 import { BiPhoneCall } from "react-icons/bi";
 const Navbar = () => {
   const [isSticky, setSticky] = useState(false);

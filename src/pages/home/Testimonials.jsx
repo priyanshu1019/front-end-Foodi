@@ -7,7 +7,7 @@ const Testimonials = () => {
       <div className="flex flex-col md:flex-row justify-between items-center gap-12">
         <div className="md:w-1/2">
           <img
-            src="../../public/images/home/testimonials/testimonials.png"
+            src="../../../src/assets/images/home/testimonials/testimonials.png"
             alt="bestChef"
           />
         </div>
@@ -28,7 +28,7 @@ const Testimonials = () => {
                 <div className="avatar">
                   <div className="w-12">
                     <img
-                      src="../../public/images/home/testimonials/testimonial1.png"
+                      src="../../../src/assets/images/home/testimonials/testimonial1.png"
                       alt="test1"
                     />
                   </div>
@@ -36,7 +36,7 @@ const Testimonials = () => {
                 <div className="avatar">
                   <div className="w-12">
                     <img
-                      src="../../public/images/home/testimonials/testimonial2.png"
+                      src="../../../src/assets/images/home/testimonials/testimonial2.png"
                       alt="test2"
                     />
                   </div>
@@ -44,7 +44,7 @@ const Testimonials = () => {
                 <div className="avatar">
                   <div className="w-12">
                     <img
-                      src="../../public/images/home/testimonials/testimonial3.png"
+                      src="../../../src/assets/images/home/testimonials/testimonial3.png"
                       alt="test3"
                     />
                   </div>

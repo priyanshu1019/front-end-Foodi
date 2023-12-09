@@ -6,11 +6,11 @@ const Banner = () => {
       <div className="py-24 flex flex-col md:flex-row-reverse justify-between items-center gap-8">
         {/* image */}
         <div className="md:w-1/2">
-          <img src="../../public/images/banner.png" alt="banner" />
+          <img src="../../../src/assets/images/banner.png" alt="banner" />
           <div className="flex flex-col md:flex-row items-center justify-around -mt-14 gap-4">
             <div className="flex gap-3 bg-[#FFF] py-2 px-3 rounded-2xl items-center shadow-2xl w-70">
               <img
-                src="../../public/images/home/b-food1.png"
+                src="../../../src/assets/images/home/b-food1.png"
                 alt="food1"
                 className="rounded-2xl"
               />
@@ -56,7 +56,7 @@ const Banner = () => {
             </div>
             <div className="sm:flex hidden gap-3 bg-[#FFF] py-2 px-3 rounded-2xl items-center shadow-2xl w-70">
               <img
-                src="../../public/images/home/b-food2.png"
+                src="../../../src/assets/images/home/b-food2.png"
                 alt="food1"
                 className="rounded-2xl"
               />
